@@ -1,0 +1,5 @@
+Cosas a mejorar del Sprint1:
+Seleccionar el trimestre que quieres configurar.
+Seleccionar que días se realiza la actividad.
+Seleccionar la hora a la que inicia y finaliza la actividad.
+

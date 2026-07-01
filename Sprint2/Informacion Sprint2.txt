@@ -1,0 +1,61 @@
+Sprint 2: 
+Las historias pueden evolucionar
+Plazo para evaluar nuestras historias de usuario y asi poder aplicarlas/validarlas
+Obligatorio: Uso de GIT. (invitar al profesor al repositorio)
+Necesario: Modelo de datos y prototipos de pantallas, deben de estar en un OneNote que hay que subir
+Ampliar funcionalidad(puede añadirse o variar la existente)
+Gestión de las listas de espera.
+Las actividades tienen un minimo y un maximo de participantes. Si es minimo pueden suspenderse a posteriori de la matricula, esos avisos van en la gestión de la
+lista de espera, el usuario puede cambiarse de actividad.
+Estaria abierto el plazo de matricula durante el trimestre para las actividades que esten entre el minimo y el maximo, durante periodo extra oficial de matricula que implica
+toda la matriculacion normal. No puedes ponerte en lista de espera.
+No puedes matricularte de las actividades que estan por debajo del minimo.
+No pueden planificarse actividades en instalaciones que ya esten ocupadas en el mismo horario (Que se solapen actividades), sale un aviso de que no se puede.
+
+//Objetivos principales:
+Completar proceso de matricula, lista de espera y reserva de actividades teniendo en cuenta las colisiones.
+Conflictos a la hora de reservar
+
+//Objetivos no prioritarios
+Reserva de instalaciones para una persona física.
+1 semana previa a la reserva.
+Solo va a poder realizar la reserva de como máximo 2 horas en el mismo día.
+Por cada reserva tendrá que pagar el importe por hora.
+La instalación debe estar libre para hacer la reserva
+El precio depende de la instalación.
+La cancelación solo devolvería el dinero en caso de que fuese problema de las instalaciones/universidad, etc... si fuese culpa del usuario, no se le devuelve el dinero
+La universidad debe avisar de la anulación, cancelación de actividad y devolución del importe
+El servicio de la universidad/instalaciones es de 09:00-21:00 durante epoca de clase del alumnado
+El usuario puede ver las reservas que tiene y las que están libres/ocupadas, pero ocultando la información del usuario que reservo. Solamente información orientativa
+
+//Información extra para mejorar sprint1
+Prioridades: universitarios, familiares y público general
+
+//Creación de HU Sprint2------------------Como [TipoUsuario...] quiero [Funcionalidad...] para [Valor...]
+H.U 1: Como administrador quiero que no se me solapen las actividades para que no haya problemas entre las actividades planificadas en la misma instalación.
+C.A: Si ya tengo una actividad planificada a una hora en una instalación e intento añadir otra actividad en la misma instalación y que ocupe alguna de las horas ya planificadas, 
+se nos avisará de que no podemos crear esta actividad.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
